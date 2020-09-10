@@ -1,0 +1,2 @@
+- image-src м╪╢╡
+- file-src нд╪Ч
