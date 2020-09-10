@@ -1,2 +1,2 @@
-- image-src Í¼´²
-- file-src ÎÄ¼þ
+- image-src å›¾åºŠ
+- file-src æ–‡ä»¶
